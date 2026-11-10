@@ -1,0 +1,16 @@
+{
+  "out": "/Users/junrongng/Documents/QF4204/QMC_Final_Convergence_E5/structure_study",
+  "powers": [
+    12
+  ],
+  "replicates": 24,
+  "pilot": 256,
+  "reference_power": 16,
+  "reference_scrambles": 8,
+  "seed": 2026,
+  "reuse": 1,
+  "cases": null,
+  "quick": false,
+  "max_new": null,
+  "reset_e5": false
+}

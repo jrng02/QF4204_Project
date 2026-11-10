@@ -1,0 +1,13 @@
+case,kind,objective,reason,number_of_zero_losses,min_finite_loss
+holdout_geo_knockout_d128_K105_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,7,0.0
+holdout_geo_knockout_d128_K110_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,12,0.0
+holdout_geo_knockout_d128_K110_H104_V0.25,geo_knockout,efficiency,zero_measured_loss,10,0.0
+holdout_geo_knockout_d16_K105_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,8,0.0
+holdout_geo_knockout_d16_K110_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,10,0.0
+holdout_geo_knockout_d16_K110_H104_V0.25,geo_knockout,efficiency,zero_measured_loss,8,0.0
+holdout_geo_knockout_d32_K105_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,8,0.0
+holdout_geo_knockout_d32_K110_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,12,0.0
+holdout_geo_knockout_d32_K110_H104_V0.25,geo_knockout,efficiency,zero_measured_loss,9,0.0
+holdout_geo_knockout_d64_K105_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,8,0.0
+holdout_geo_knockout_d64_K110_H102_V0.25,geo_knockout,efficiency,zero_measured_loss,11,0.0
+holdout_geo_knockout_d64_K110_H104_V0.25,geo_knockout,efficiency,zero_measured_loss,8,0.0

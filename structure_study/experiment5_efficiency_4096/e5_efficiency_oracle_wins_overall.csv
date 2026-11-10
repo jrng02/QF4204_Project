@@ -1,0 +1,10 @@
+method,oracle_wins
+CQMC+BB,112
+CQMC+GPCA,104
+CQMC+PCA,79
+RQMC+PCA,65
+OT-PCA,28
+RQMC+GPCA(proxy),9
+RQMC+BB,3
+OT-Cholesky,2
+CQMC,2

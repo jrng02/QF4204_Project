@@ -1,0 +1,15 @@
+structural_family,kind,contracts,evaluable,oracle_matches
+arithmetic_asian,arith_call,16,16,12.0
+arithmetic_asian,arith_put,16,16,16.0
+arithmetic_digital,arith_digital,16,16,1.0
+arithmetic_digital,arith_digital_put,16,16,3.0
+geometric_asian,geo_call,16,16,9.0
+geometric_asian,geo_put,16,16,16.0
+geometric_digital,geo_digital,16,16,16.0
+geometric_digital,geo_digital_put,16,16,16.0
+geometric_knockout,geo_knockout,64,60,17.0
+geometric_knockout,geo_knockout_reverse,64,64,13.0
+pathwise_barrier,barrier,64,64,36.0
+pathwise_barrier,barrier_up_out_call,64,64,54.0
+terminal_digital,digital,16,16,7.0
+terminal_digital,digital_put,16,16,7.0

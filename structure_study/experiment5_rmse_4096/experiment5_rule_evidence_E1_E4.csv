@@ -1,0 +1,8 @@
+objective,family,prespecified_rule,development_cases,development_wins,geometric_mean_loss_over_rqmc,development_case_names
+rmse,terminal_digital,CQMC+BB,1,1,2.1856986421758605e-05,geometry_digital
+rmse,geometric_digital,CQMC+GPCA,2,2,1.0156374018148959e-05,continuity_geo_digital;geometry_geo_digital
+rmse,arithmetic_digital,CQMC+PCA,2,2,0.06373179728315756,continuity_arith_digital;geometry_arith_digital
+rmse,geometric_asian,RQMC+GPCA(proxy),7,6,0.05414752111822113,continuity_geo_call;dimension_geo_call_128;dimension_geo_call_16;dimension_geo_call_256;dimension_geo_call_32;dimension_geo_call_64;dimension_geo_call_8
+rmse,arithmetic_asian,RQMC+GPCA(proxy),7,4,0.06308256994072187,continuity_arith_call;dimension_arith_call_128;dimension_arith_call_16;dimension_arith_call_256;dimension_arith_call_32;dimension_arith_call_64;dimension_arith_call_8
+rmse,pathwise_barrier,CQMC+GPCA,1,1,0.08700926441501453,geometry_barrier
+rmse,geometric_knockout,CQMC+PCA,5,1,0.0249350548906831,geometry_geo_knockout;hybrid_16_H105_K100;hybrid_64_H103_K95;hybrid_64_H105_K100;hybrid_64_H110_K105
